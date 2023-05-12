@@ -1,0 +1,2841 @@
+{
+  "eta": "22",
+  "genere": "Femmina",
+  "formazione": "Secondario di primo grado",
+  "dgd_test": {
+    "Q1": 1,
+    "Q10": 1,
+    "Q11": 1,
+    "Q12": 5,
+    "Q13": 1,
+    "Q14": 1,
+    "Q15": 1,
+    "Q16": 2,
+    "Q2": 4,
+    "Q3": 1,
+    "Q4": 5,
+    "Q5": 3,
+    "Q6": 3,
+    "Q7": 4,
+    "Q8": 1,
+    "Q9": 3
+  },
+  "partita": {
+    "livello_max": 18,
+    "livello": {
+      "1": {
+        "n_sequenza": 6,
+        "n_carte": 6,
+        "ripetizione": 0,
+        "n_errori": 6,
+        "n_aiuti": 4,
+        "orario_inizio": "14:21:54:245",
+        "sequenza": {
+          "0": {
+            "mossa": {
+              "0": {
+                "tipo": "ID",
+                "orario": "14:21:59:259",
+                "decisione_aiuto": "Nascondi Carta",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  6,
+                  1,
+                  6,
+                  0
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 2,
+                "decisione_come": "Suggerimento",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "1": {
+                "tipo": "Suggerimento",
+                "orario": "14:22:01:269",
+                "aiuto": "Nascondi Carta"
+              },
+              "2": {
+                "tipo": "Corrispondenza",
+                "orario": "14:22:01:279"
+              }
+            }
+          },
+          "1": {
+            "mossa": {
+              "0": {
+                "tipo": "ID",
+                "orario": "14:22:01:292",
+                "decisione_aiuto": "Nascondi Carta",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  6,
+                  2,
+                  6,
+                  1
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 4,
+                "decisione_come": "Suggerimento",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "1": {
+                "tipo": "Suggerimento",
+                "orario": "14:22:05:302",
+                "aiuto": "Nascondi Carta"
+              },
+              "2": {
+                "tipo": "Corrispondenza",
+                "orario": "14:22:07:90"
+              }
+            }
+          },
+          "2": {
+            "mossa": {
+              "0": {
+                "tipo": "ID",
+                "orario": "14:22:07:101",
+                "decisione_aiuto": "Indica Posizione",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  6,
+                  3,
+                  6,
+                  1
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 4,
+                "decisione_come": "Suggerimento",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "1": {
+                "tipo": "Suggerimento",
+                "orario": "14:22:11:110",
+                "aiuto": "Indica Posizione"
+              },
+              "2": {
+                "tipo": "Indica Posizione",
+                "orario": "14:22:13:670",
+                "nCarte_nonNascoste": 6,
+                "nCarte_nonNascoste_dopo": 1
+              },
+              "3": {
+                "tipo": "Corrispondenza",
+                "orario": "14:22:19:362"
+              }
+            }
+          },
+          "3": {
+            "mossa": {
+              "0": {
+                "tipo": "ID",
+                "orario": "14:22:19:372",
+                "decisione_aiuto": "Nessuno",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  6,
+                  4,
+                  6,
+                  1
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": ""
+              },
+              "1": {
+                "tipo": "Errore",
+                "orario": "14:22:26:608"
+              },
+              "2": {
+                "tipo": "ID",
+                "orario": "14:22:26:621",
+                "decisione_aiuto": "Indica Posizione",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  6,
+                  4,
+                  6,
+                  2
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 2,
+                "decisione_come": "Intervento",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "3": {
+                "tipo": "Intervento",
+                "orario": "14:22:28:628",
+                "aiuto": "Indica Posizione"
+              },
+              "4": {
+                "tipo": "Indica Posizione",
+                "orario": "14:22:28:630",
+                "nCarte_nonNascoste": 6,
+                "nCarte_nonNascoste_dopo": 1
+              },
+              "5": {
+                "tipo": "Gradito",
+                "orario": "14:22:32:223"
+              },
+              "6": {
+                "tipo": "Corrispondenza",
+                "orario": "14:22:34:907"
+              }
+            }
+          },
+          "4": {
+            "mossa": {
+              "0": {
+                "tipo": "ID",
+                "orario": "14:22:34:918",
+                "decisione_aiuto": "Rivedi Sequenza",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  6,
+                  5,
+                  6,
+                  1
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 4,
+                "decisione_come": "Suggerimento",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "1": {
+                "tipo": "Suggerimento",
+                "orario": "14:22:38:924",
+                "aiuto": "Rivedi Sequenza"
+              },
+              "2": {
+                "tipo": "Errore",
+                "orario": "14:22:39:329"
+              },
+              "3": {
+                "tipo": "ID",
+                "orario": "14:22:39:340",
+                "decisione_aiuto": "Nascondi Carta",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  6,
+                  5,
+                  6,
+                  2
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 2,
+                "decisione_come": "Notifica",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "4": {
+                "tipo": "Notifica",
+                "orario": "14:22:41:349",
+                "aiuto": "Nascondi Carta"
+              },
+              "5": {
+                "tipo": "Errore",
+                "orario": "14:22:44:466"
+              },
+              "6": {
+                "tipo": "ID",
+                "orario": "14:22:44:477",
+                "decisione_aiuto": "Nascondi Carta",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  6,
+                  5,
+                  6,
+                  2
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 4,
+                "decisione_come": "Notifica",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "7": {
+                "tipo": "Errore",
+                "orario": "14:22:46:127"
+              },
+              "8": {
+                "tipo": "ID",
+                "orario": "14:22:46:136",
+                "decisione_aiuto": "Nascondi Carta",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  6,
+                  5,
+                  6,
+                  2
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 3,
+                "decisione_come": "Suggerimento",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "9": {
+                "tipo": "Errore",
+                "orario": "14:22:47:740"
+              },
+              "10": {
+                "tipo": "ID",
+                "orario": "14:22:47:748",
+                "decisione_aiuto": "Nessuno",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  6,
+                  5,
+                  6,
+                  2
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": ""
+              },
+              "11": {
+                "tipo": "Errore",
+                "orario": "14:22:49:17"
+              },
+              "12": {
+                "tipo": "ID",
+                "orario": "14:22:49:25",
+                "decisione_aiuto": "Rivedi Sequenza",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  6,
+                  5,
+                  6,
+                  2
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 2,
+                "decisione_come": "Suggerimento",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "13": {
+                "tipo": "Suggerimento",
+                "orario": "14:22:51:33",
+                "aiuto": "Rivedi Sequenza"
+              },
+              "14": {
+                "tipo": "Rivedi Sequenza",
+                "orario": "14:22:57:900"
+              },
+              "15": {
+                "tipo": "Corrispondenza",
+                "orario": "14:23:09:522"
+              }
+            }
+          },
+          "5": {
+            "mossa": {
+              "0": {
+                "tipo": "ID",
+                "orario": "14:23:09:534",
+                "decisione_aiuto": "Nascondi Carta",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  6,
+                  6,
+                  6,
+                  1
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 3,
+                "decisione_come": "Intervento",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "1": {
+                "tipo": "Intervento",
+                "orario": "14:23:12:542",
+                "aiuto": "Nascondi Carta"
+              },
+              "2": {
+                "orario": "14:23:12:544",
+                "tipo": "Nascondi Carta",
+                "nCarte_nonNascoste": 6,
+                "nCarte_nonNascoste_dopo": 5
+              },
+              "3": {
+                "tipo": "Non Gradito",
+                "orario": "14:23:14:466"
+              },
+              "4": {
+                "tipo": "ID",
+                "orario": "14:23:14:476",
+                "decisione_aiuto": "Nascondi Carta",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  6,
+                  6,
+                  5,
+                  3
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 3,
+                "decisione_come": "Notifica",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "5": {
+                "tipo": "Corrispondenza",
+                "orario": "14:23:17:324"
+              }
+            }
+          }
+        },
+        "tempo_parziale": 83.078,
+        "orario_fine": "14:23:17:324",
+        "terminato": 1,
+        "score_parziale": 19
+      },
+      "2": {
+        "n_sequenza": 7,
+        "n_carte": 7,
+        "ripetizione": 0,
+        "n_errori": 7,
+        "n_aiuti": 4,
+        "orario_inizio": "14:23:25:242",
+        "sequenza": {
+          "0": {
+            "mossa": {
+              "0": {
+                "tipo": "ID",
+                "orario": "14:23:30:256",
+                "decisione_aiuto": "Nascondi Carta",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  1,
+                  7,
+                  0
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 3,
+                "decisione_come": "Notifica",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "1": {
+                "tipo": "Corrispondenza",
+                "orario": "14:23:32:939"
+              }
+            }
+          },
+          "1": {
+            "mossa": {
+              "0": {
+                "tipo": "ID",
+                "orario": "14:23:32:953",
+                "decisione_aiuto": "Suggerisci Posizione",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  2,
+                  7,
+                  1
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 2,
+                "decisione_come": "Suggerimento",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "1": {
+                "tipo": "Suggerimento",
+                "orario": "14:23:34:961",
+                "aiuto": "Suggerisci Posizione"
+              },
+              "2": {
+                "tipo": "Errore",
+                "orario": "14:23:35:51"
+              },
+              "3": {
+                "tipo": "ID",
+                "orario": "14:23:35:66",
+                "decisione_aiuto": "Rivedi Sequenza",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  2,
+                  7,
+                  2
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 3,
+                "decisione_come": "Suggerimento",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "4": {
+                "tipo": "Suggerimento",
+                "orario": "14:23:38:71",
+                "aiuto": "Rivedi Sequenza"
+              },
+              "5": {
+                "tipo": "Errore",
+                "orario": "14:23:38:711"
+              },
+              "6": {
+                "tipo": "ID",
+                "orario": "14:23:38:725",
+                "decisione_aiuto": "Nascondi Carta",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  2,
+                  7,
+                  2
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 4,
+                "decisione_come": "Intervento",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "7": {
+                "tipo": "Intervento",
+                "orario": "14:23:42:735",
+                "aiuto": "Nascondi Carta"
+              },
+              "8": {
+                "orario": "14:23:42:736",
+                "tipo": "Nascondi Carta",
+                "nCarte_nonNascoste": 7,
+                "nCarte_nonNascoste_dopo": 6
+              },
+              "9": {
+                "tipo": "Gradito",
+                "orario": "14:23:52:307"
+              },
+              "10": {
+                "tipo": "ID",
+                "orario": "14:23:52:316",
+                "decisione_aiuto": "Nessuno",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  2,
+                  6,
+                  3
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": ""
+              },
+              "11": {
+                "tipo": "Errore",
+                "orario": "14:24:00:456"
+              },
+              "12": {
+                "tipo": "ID",
+                "orario": "14:24:00:466",
+                "decisione_aiuto": "Suggerisci Posizione",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  2,
+                  6,
+                  2
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 3,
+                "decisione_come": "Notifica",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "13": {
+                "tipo": "Errore",
+                "orario": "14:24:02:137"
+              },
+              "14": {
+                "tipo": "ID",
+                "orario": "14:24:02:146",
+                "decisione_aiuto": "Rivedi Sequenza",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  2,
+                  6,
+                  2
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 2,
+                "decisione_come": "Intervento",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "15": {
+                "tipo": "Intervento",
+                "orario": "14:24:04:151",
+                "aiuto": "Rivedi Sequenza"
+              },
+              "16": {
+                "tipo": "Rivedi Sequenza",
+                "orario": "14:24:04:152"
+              },
+              "17": {
+                "tipo": "Gradito",
+                "orario": "14:24:14:986"
+              },
+              "18": {
+                "tipo": "Errore",
+                "orario": "14:24:29:565"
+              },
+              "19": {
+                "tipo": "ID",
+                "orario": "14:24:29:575",
+                "decisione_aiuto": "Suggerisci Posizione",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  2,
+                  6,
+                  2
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 3,
+                "decisione_come": "Suggerimento",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "20": {
+                "tipo": "Suggerimento",
+                "orario": "14:24:32:577",
+                "aiuto": "Suggerisci Posizione"
+              },
+              "21": {
+                "tipo": "Suggerisci Posizione",
+                "orario": "14:24:35:523",
+                "nCarte_nonNascoste": 6,
+                "nCarte_nonNascoste_dopo": 3
+              },
+              "22": {
+                "tipo": "ID",
+                "orario": "14:24:35:535",
+                "decisione_aiuto": "Rivedi Sequenza",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  2,
+                  3,
+                  3
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 2,
+                "decisione_come": "Notifica",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "23": {
+                "tipo": "Notifica",
+                "orario": "14:24:37:545",
+                "aiuto": "Rivedi Sequenza"
+              },
+              "24": {
+                "tipo": "Corrispondenza",
+                "orario": "14:24:39:688"
+              }
+            }
+          },
+          "2": {
+            "mossa": {
+              "0": {
+                "tipo": "ID",
+                "orario": "14:24:39:704",
+                "decisione_aiuto": "Nascondi Carta",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  3,
+                  7,
+                  1
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 2,
+                "decisione_come": "Suggerimento",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "1": {
+                "tipo": "Suggerimento",
+                "orario": "14:24:41:714",
+                "aiuto": "Nascondi Carta"
+              },
+              "2": {
+                "tipo": "Corrispondenza",
+                "orario": "14:24:43:857"
+              }
+            }
+          },
+          "3": {
+            "mossa": {
+              "0": {
+                "tipo": "ID",
+                "orario": "14:24:43:866",
+                "decisione_aiuto": "Suggerisci Posizione",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  4,
+                  7,
+                  1
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 2,
+                "decisione_come": "Suggerimento",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "1": {
+                "tipo": "Suggerimento",
+                "orario": "14:24:45:876",
+                "aiuto": "Suggerisci Posizione"
+              },
+              "2": {
+                "tipo": "Corrispondenza",
+                "orario": "14:24:47:143"
+              }
+            }
+          },
+          "4": {
+            "mossa": {
+              "0": {
+                "tipo": "ID",
+                "orario": "14:24:47:153",
+                "decisione_aiuto": "Indica Posizione",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  5,
+                  7,
+                  1
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 4,
+                "decisione_come": "Intervento",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "1": {
+                "tipo": "Errore",
+                "orario": "14:24:50:95"
+              },
+              "2": {
+                "tipo": "ID",
+                "orario": "14:24:50:105",
+                "decisione_aiuto": "Indica Posizione",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  5,
+                  7,
+                  2
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 2,
+                "decisione_come": "Suggerimento",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "3": {
+                "tipo": "Suggerimento",
+                "orario": "14:24:52:116",
+                "aiuto": "Indica Posizione"
+              },
+              "4": {
+                "tipo": "Indica Posizione",
+                "orario": "14:24:53:32",
+                "nCarte_nonNascoste": 7,
+                "nCarte_nonNascoste_dopo": 1
+              },
+              "5": {
+                "tipo": "Corrispondenza",
+                "orario": "14:24:54:971"
+              }
+            }
+          },
+          "5": {
+            "mossa": {
+              "0": {
+                "tipo": "ID",
+                "orario": "14:24:54:985",
+                "decisione_aiuto": "Rivedi Sequenza",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  6,
+                  7,
+                  1
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 4,
+                "decisione_come": "Notifica",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "1": {
+                "tipo": "Notifica",
+                "orario": "14:24:58:994",
+                "aiuto": "Rivedi Sequenza"
+              },
+              "2": {
+                "tipo": "Errore",
+                "orario": "14:25:01:252"
+              },
+              "3": {
+                "tipo": "ID",
+                "orario": "14:25:01:264",
+                "decisione_aiuto": "Nessuno",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  6,
+                  7,
+                  2
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": ""
+              },
+              "4": {
+                "tipo": "Corrispondenza",
+                "orario": "14:25:08:619"
+              }
+            }
+          },
+          "6": {
+            "mossa": {
+              "0": {
+                "tipo": "ID",
+                "orario": "14:25:08:631",
+                "decisione_aiuto": "Nascondi Carta",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  7,
+                  7,
+                  1
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 2,
+                "decisione_come": "Suggerimento",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "1": {
+                "tipo": "Suggerimento",
+                "orario": "14:25:10:636",
+                "aiuto": "Nascondi Carta"
+              },
+              "2": {
+                "tipo": "Corrispondenza",
+                "orario": "14:25:12:606"
+              }
+            }
+          }
+        },
+        "tempo_parziale": 107.363,
+        "orario_fine": "14:25:12:606",
+        "terminato": 1,
+        "score_parziale": 25
+      },
+      "3": {
+        "n_sequenza": 8,
+        "n_carte": 8,
+        "ripetizione": 0,
+        "n_errori": 3,
+        "n_aiuti": 1,
+        "orario_inizio": "14:25:16:838",
+        "sequenza": {
+          "0": {
+            "mossa": {
+              "0": {
+                "tipo": "ID",
+                "orario": "14:25:21:851",
+                "decisione_aiuto": "Rivedi Sequenza",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  1,
+                  8,
+                  0
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 3,
+                "decisione_come": "Notifica",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "1": {
+                "tipo": "Corrispondenza",
+                "orario": "14:25:24:505"
+              }
+            }
+          },
+          "1": {
+            "mossa": {
+              "0": {
+                "tipo": "ID",
+                "orario": "14:25:24:515",
+                "decisione_aiuto": "Suggerisci Posizione",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  2,
+                  8,
+                  1
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 4,
+                "decisione_come": "Intervento",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "1": {
+                "tipo": "Corrispondenza",
+                "orario": "14:25:26:961"
+              }
+            }
+          },
+          "2": {
+            "mossa": {
+              "0": {
+                "tipo": "ID",
+                "orario": "14:25:26:978",
+                "decisione_aiuto": "Nascondi Carta",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  3,
+                  8,
+                  1
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 3,
+                "decisione_come": "Intervento",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "1": {
+                "tipo": "Corrispondenza",
+                "orario": "14:25:28:307"
+              }
+            }
+          },
+          "3": {
+            "mossa": {
+              "0": {
+                "tipo": "ID",
+                "orario": "14:25:28:318",
+                "decisione_aiuto": "Rivedi Sequenza",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  4,
+                  8,
+                  1
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 3,
+                "decisione_come": "Intervento",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "1": {
+                "tipo": "Corrispondenza",
+                "orario": "14:25:29:270"
+              }
+            }
+          },
+          "4": {
+            "mossa": {
+              "0": {
+                "tipo": "ID",
+                "orario": "14:25:29:280",
+                "decisione_aiuto": "Nascondi Carta",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  5,
+                  8,
+                  1
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 3,
+                "decisione_come": "Intervento",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "1": {
+                "tipo": "Corrispondenza",
+                "orario": "14:25:30:521"
+              }
+            }
+          },
+          "5": {
+            "mossa": {
+              "0": {
+                "tipo": "ID",
+                "orario": "14:25:30:534",
+                "decisione_aiuto": "Nascondi Carta",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  6,
+                  8,
+                  1
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 2,
+                "decisione_come": "Suggerimento",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "1": {
+                "tipo": "Suggerimento",
+                "orario": "14:25:32:536",
+                "aiuto": "Nascondi Carta"
+              },
+              "2": {
+                "tipo": "Errore",
+                "orario": "14:25:34:16"
+              },
+              "3": {
+                "tipo": "ID",
+                "orario": "14:25:34:29",
+                "decisione_aiuto": "Nessuno",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  6,
+                  8,
+                  2
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": ""
+              },
+              "4": {
+                "tipo": "Errore",
+                "orario": "14:25:49:933"
+              },
+              "5": {
+                "tipo": "ID",
+                "orario": "14:25:49:942",
+                "decisione_aiuto": "Suggerisci Posizione",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  6,
+                  8,
+                  2
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 2,
+                "decisione_come": "Notifica",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "6": {
+                "tipo": "Notifica",
+                "orario": "14:25:51:950",
+                "aiuto": "Suggerisci Posizione"
+              },
+              "7": {
+                "tipo": "Indica Posizione",
+                "orario": "14:25:55:831",
+                "nCarte_nonNascoste": 8,
+                "nCarte_nonNascoste_dopo": 1
+              },
+              "8": {
+                "tipo": "Corrispondenza",
+                "orario": "14:25:57:45"
+              }
+            }
+          },
+          "6": {
+            "mossa": {
+              "0": {
+                "tipo": "ID",
+                "orario": "14:25:57:56",
+                "decisione_aiuto": "Suggerisci Posizione",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  7,
+                  8,
+                  1
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 4,
+                "decisione_come": "Suggerimento",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "1": {
+                "tipo": "Suggerimento",
+                "orario": "14:26:01:61",
+                "aiuto": "Suggerisci Posizione"
+              },
+              "2": {
+                "tipo": "Errore",
+                "orario": "14:26:03:15"
+              },
+              "3": {
+                "tipo": "ID",
+                "orario": "14:26:03:26",
+                "decisione_aiuto": "Nessuno",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  7,
+                  8,
+                  2
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": ""
+              },
+              "4": {
+                "tipo": "Corrispondenza",
+                "orario": "14:26:04:708"
+              }
+            }
+          },
+          "7": {
+            "mossa": {
+              "0": {
+                "tipo": "ID",
+                "orario": "14:26:04:718",
+                "decisione_aiuto": "Rivedi Sequenza",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  7,
+                  8,
+                  1
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 3,
+                "decisione_come": "Suggerimento",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "1": {
+                "tipo": "Corrispondenza",
+                "orario": "14:26:05:930"
+              }
+            }
+          }
+        },
+        "tempo_parziale": 49.092,
+        "orario_fine": "14:26:05:930",
+        "terminato": 1,
+        "score_parziale": 62
+      },
+      "4": {
+        "n_sequenza": 8,
+        "n_carte": 9,
+        "ripetizione": 0,
+        "n_errori": 2,
+        "n_aiuti": 1,
+        "orario_inizio": "14:26:08:844",
+        "sequenza": {
+          "0": {
+            "mossa": {
+              "0": {
+                "tipo": "ID",
+                "orario": "14:26:13:860",
+                "decisione_aiuto": "Rivedi Sequenza",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  1,
+                  9,
+                  0
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 3,
+                "decisione_come": "Notifica",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "1": {
+                "tipo": "Notifica",
+                "orario": "14:26:16:866",
+                "aiuto": "Rivedi Sequenza"
+              },
+              "2": {
+                "tipo": "Corrispondenza",
+                "orario": "14:26:17:425"
+              }
+            }
+          },
+          "1": {
+            "mossa": {
+              "0": {
+                "tipo": "ID",
+                "orario": "14:26:17:435",
+                "decisione_aiuto": "Indica Posizione",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  2,
+                  9,
+                  1
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 2,
+                "decisione_come": "Notifica",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "1": {
+                "tipo": "Notifica",
+                "orario": "14:26:19:444",
+                "aiuto": "Indica Posizione"
+              },
+              "2": {
+                "tipo": "Corrispondenza",
+                "orario": "14:26:19:857"
+              }
+            }
+          },
+          "2": {
+            "mossa": {
+              "0": {
+                "tipo": "ID",
+                "orario": "14:26:19:869",
+                "decisione_aiuto": "Indica Posizione",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  3,
+                  9,
+                  1
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 3,
+                "decisione_come": "Intervento",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "1": {
+                "tipo": "Intervento",
+                "orario": "14:26:22:878",
+                "aiuto": "Indica Posizione"
+              },
+              "2": {
+                "tipo": "Indica Posizione",
+                "orario": "14:26:22:880",
+                "nCarte_nonNascoste": 9,
+                "nCarte_nonNascoste_dopo": 1
+              },
+              "3": {
+                "tipo": "Gradito",
+                "orario": "14:26:25:876"
+              },
+              "4": {
+                "tipo": "Corrispondenza",
+                "orario": "14:26:26:868"
+              }
+            }
+          },
+          "3": {
+            "mossa": {
+              "0": {
+                "tipo": "ID",
+                "orario": "14:26:26:880",
+                "decisione_aiuto": "Nessuno",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  4,
+                  9,
+                  1
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": ""
+              },
+              "1": {
+                "tipo": "Corrispondenza",
+                "orario": "14:26:30:833"
+              }
+            }
+          },
+          "4": {
+            "mossa": {
+              "0": {
+                "tipo": "ID",
+                "orario": "14:26:30:847",
+                "decisione_aiuto": "Rivedi Sequenza",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  5,
+                  9,
+                  1
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 2,
+                "decisione_come": "Suggerimento",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "1": {
+                "tipo": "Corrispondenza",
+                "orario": "14:26:32:433"
+              }
+            }
+          },
+          "5": {
+            "mossa": {
+              "0": {
+                "tipo": "ID",
+                "orario": "14:26:32:444",
+                "decisione_aiuto": "Indica Posizione",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  6,
+                  9,
+                  1
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 3,
+                "decisione_come": "Intervento",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "1": {
+                "tipo": "Errore",
+                "orario": "14:26:34:675"
+              },
+              "2": {
+                "tipo": "ID",
+                "orario": "14:26:34:684",
+                "decisione_aiuto": "Nascondi Carta",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  6,
+                  9,
+                  2
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 3,
+                "decisione_come": "Notifica",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "3": {
+                "tipo": "Corrispondenza",
+                "orario": "14:26:37:50"
+              }
+            }
+          },
+          "6": {
+            "mossa": {
+              "0": {
+                "tipo": "ID",
+                "orario": "14:26:37:64",
+                "decisione_aiuto": "Nascondi Carta",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  7,
+                  9,
+                  1
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 3,
+                "decisione_come": "Intervento",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "1": {
+                "tipo": "Errore",
+                "orario": "14:26:39:227"
+              },
+              "2": {
+                "tipo": "ID",
+                "orario": "14:26:39:237",
+                "decisione_aiuto": "Nascondi Carta",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  7,
+                  9,
+                  2
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 4,
+                "decisione_come": "Notifica",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "3": {
+                "tipo": "Notifica",
+                "orario": "14:26:43:244",
+                "aiuto": "Nascondi Carta"
+              },
+              "4": {
+                "tipo": "Corrispondenza",
+                "orario": "14:26:43:619"
+              }
+            }
+          },
+          "7": {
+            "mossa": {
+              "0": {
+                "tipo": "ID",
+                "orario": "14:26:43:649",
+                "decisione_aiuto": "Indica Posizione",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  7,
+                  9,
+                  1
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 4,
+                "decisione_come": "Suggerimento",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "1": {
+                "tipo": "Corrispondenza",
+                "orario": "14:26:44:752"
+              }
+            }
+          }
+        },
+        "tempo_parziale": 35.907,
+        "orario_fine": "14:26:44:752",
+        "terminato": 1,
+        "score_parziale": 67
+      },
+      "5": {
+        "n_sequenza": 8,
+        "n_carte": 9,
+        "ripetizione": 1,
+        "n_errori": 2,
+        "n_aiuti": 2,
+        "orario_inizio": "14:26:55:623",
+        "sequenza": {
+          "0": {
+            "mossa": {
+              "0": {
+                "tipo": "ID",
+                "orario": "14:27:00:644",
+                "decisione_aiuto": "Indica Posizione",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  1,
+                  9,
+                  0
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 3,
+                "decisione_come": "Suggerimento",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "1": {
+                "tipo": "Corrispondenza",
+                "orario": "14:27:02:900"
+              }
+            }
+          },
+          "1": {
+            "mossa": {
+              "0": {
+                "tipo": "ID",
+                "orario": "14:27:02:911",
+                "decisione_aiuto": "Suggerisci Posizione",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  2,
+                  9,
+                  1
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 2,
+                "decisione_come": "Suggerimento",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "1": {
+                "tipo": "Corrispondenza",
+                "orario": "14:27:04:21"
+              }
+            }
+          },
+          "2": {
+            "mossa": {
+              "0": {
+                "tipo": "ID",
+                "orario": "14:27:04:39",
+                "decisione_aiuto": "Indica Posizione",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  3,
+                  9,
+                  1
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 4,
+                "decisione_come": "Notifica",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "1": {
+                "tipo": "Corrispondenza",
+                "orario": "14:27:05:775"
+              }
+            }
+          },
+          "3": {
+            "mossa": {
+              "0": {
+                "tipo": "ID",
+                "orario": "14:27:05:786",
+                "decisione_aiuto": "Indica Posizione",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  4,
+                  9,
+                  1
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 4,
+                "decisione_come": "Intervento",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "1": {
+                "tipo": "Corrispondenza",
+                "orario": "14:27:07:65"
+              }
+            }
+          },
+          "4": {
+            "mossa": {
+              "0": {
+                "tipo": "ID",
+                "orario": "14:27:07:77",
+                "decisione_aiuto": "Nascondi Carta",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  5,
+                  9,
+                  1
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 4,
+                "decisione_come": "Suggerimento",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "1": {
+                "tipo": "Corrispondenza",
+                "orario": "14:27:07:565"
+              }
+            }
+          },
+          "5": {
+            "mossa": {
+              "0": {
+                "tipo": "ID",
+                "orario": "14:27:07:574",
+                "decisione_aiuto": "Indica Posizione",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  6,
+                  9,
+                  1
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 4,
+                "decisione_come": "Intervento",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "1": {
+                "tipo": "Corrispondenza",
+                "orario": "14:27:10:327"
+              }
+            }
+          },
+          "6": {
+            "mossa": {
+              "0": {
+                "tipo": "ID",
+                "orario": "14:27:10:339",
+                "decisione_aiuto": "Indica Posizione",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  7,
+                  9,
+                  1
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 3,
+                "decisione_come": "Suggerimento",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "1": {
+                "tipo": "Suggerimento",
+                "orario": "14:27:13:342",
+                "aiuto": "Indica Posizione"
+              },
+              "2": {
+                "tipo": "Indica Posizione",
+                "orario": "14:27:15:57",
+                "nCarte_nonNascoste": 9,
+                "nCarte_nonNascoste_dopo": 1
+              },
+              "3": {
+                "tipo": "Corrispondenza",
+                "orario": "14:27:16:762"
+              }
+            }
+          },
+          "7": {
+            "mossa": {
+              "0": {
+                "tipo": "ID",
+                "orario": "14:27:16:770",
+                "decisione_aiuto": "Rivedi Sequenza",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  7,
+                  9,
+                  1
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 2,
+                "decisione_come": "Suggerimento",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "1": {
+                "tipo": "Suggerimento",
+                "orario": "14:27:18:774",
+                "aiuto": "Rivedi Sequenza"
+              },
+              "2": {
+                "tipo": "Errore",
+                "orario": "14:27:21:152"
+              },
+              "3": {
+                "tipo": "ID",
+                "orario": "14:27:21:162",
+                "decisione_aiuto": "Indica Posizione",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  7,
+                  9,
+                  2
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 3,
+                "decisione_come": "Intervento",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "4": {
+                "tipo": "Errore",
+                "orario": "14:27:23:716"
+              },
+              "5": {
+                "tipo": "ID",
+                "orario": "14:27:23:724",
+                "decisione_aiuto": "Indica Posizione",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  7,
+                  9,
+                  2
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 3,
+                "decisione_come": "Intervento",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "6": {
+                "tipo": "Intervento",
+                "orario": "14:27:26:725",
+                "aiuto": "Indica Posizione"
+              },
+              "7": {
+                "tipo": "Indica Posizione",
+                "orario": "14:27:26:726",
+                "nCarte_nonNascoste": 9,
+                "nCarte_nonNascoste_dopo": 1
+              },
+              "8": {
+                "tipo": "Gradito",
+                "orario": "14:27:28:938"
+              },
+              "9": {
+                "tipo": "Corrispondenza",
+                "orario": "14:27:29:634"
+              }
+            }
+          }
+        },
+        "tempo_parziale": 34.011,
+        "orario_fine": "14:27:29:634",
+        "terminato": 1,
+        "score_parziale": 64
+      },
+      "6": {
+        "n_sequenza": 9,
+        "n_carte": 9,
+        "ripetizione": 0,
+        "n_errori": 4,
+        "n_aiuti": 4,
+        "orario_inizio": "14:27:34:258",
+        "sequenza": {
+          "0": {
+            "mossa": {
+              "0": {
+                "tipo": "ID",
+                "orario": "14:27:39:275",
+                "decisione_aiuto": "Indica Posizione",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  1,
+                  9,
+                  0
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 2,
+                "decisione_come": "Notifica",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "1": {
+                "tipo": "Notifica",
+                "orario": "14:27:41:281",
+                "aiuto": "Indica Posizione"
+              },
+              "2": {
+                "tipo": "Corrispondenza",
+                "orario": "14:27:41:532"
+              }
+            }
+          },
+          "1": {
+            "mossa": {
+              "0": {
+                "tipo": "ID",
+                "orario": "14:27:41:542",
+                "decisione_aiuto": "Nessuno",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  2,
+                  9,
+                  1
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": ""
+              },
+              "1": {
+                "tipo": "Corrispondenza",
+                "orario": "14:27:43:657"
+              }
+            }
+          },
+          "2": {
+            "mossa": {
+              "0": {
+                "tipo": "ID",
+                "orario": "14:27:43:669",
+                "decisione_aiuto": "Nessuno",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  3,
+                  9,
+                  1
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": ""
+              },
+              "1": {
+                "tipo": "Corrispondenza",
+                "orario": "14:27:44:939"
+              }
+            }
+          },
+          "3": {
+            "mossa": {
+              "0": {
+                "tipo": "ID",
+                "orario": "14:27:44:948",
+                "decisione_aiuto": "Nascondi Carta",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  4,
+                  9,
+                  1
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 4,
+                "decisione_come": "Notifica",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "1": {
+                "tipo": "Errore",
+                "orario": "14:27:48:341"
+              },
+              "2": {
+                "tipo": "ID",
+                "orario": "14:27:48:352",
+                "decisione_aiuto": "Indica Posizione",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  4,
+                  9,
+                  2
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 2,
+                "decisione_come": "Suggerimento",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "3": {
+                "tipo": "Suggerimento",
+                "orario": "14:27:50:353",
+                "aiuto": "Indica Posizione"
+              },
+              "4": {
+                "tipo": "Errore",
+                "orario": "14:27:50:433"
+              },
+              "5": {
+                "tipo": "ID",
+                "orario": "14:27:50:443",
+                "decisione_aiuto": "Nascondi Carta",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  4,
+                  9,
+                  2
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 3,
+                "decisione_come": "Suggerimento",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "6": {
+                "tipo": "Suggerimento",
+                "orario": "14:27:53:447",
+                "aiuto": "Nascondi Carta"
+              },
+              "7": {
+                "orario": "14:27:59:747",
+                "tipo": "Nascondi Carta",
+                "nCarte_nonNascoste": 9,
+                "nCarte_nonNascoste_dopo": 8
+              },
+              "8": {
+                "tipo": "ID",
+                "orario": "14:27:59:759",
+                "decisione_aiuto": "Suggerisci Posizione",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  4,
+                  8,
+                  3
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 3,
+                "decisione_come": "Intervento",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "9": {
+                "tipo": "Intervento",
+                "orario": "14:28:02:766",
+                "aiuto": "Suggerisci Posizione"
+              },
+              "10": {
+                "tipo": "Suggerisci Posizione",
+                "orario": "14:28:02:767",
+                "nCarte_nonNascoste": 8,
+                "nCarte_nonNascoste_dopo": 4
+              },
+              "11": {
+                "tipo": "Gradito",
+                "orario": "14:28:04:331"
+              },
+              "12": {
+                "tipo": "ID",
+                "orario": "14:28:04:349",
+                "decisione_aiuto": "Nessuno",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  4,
+                  4,
+                  3
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": ""
+              },
+              "13": {
+                "tipo": "Errore",
+                "orario": "14:28:06:540"
+              },
+              "14": {
+                "tipo": "ID",
+                "orario": "14:28:06:548",
+                "decisione_aiuto": "Indica Posizione",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  4,
+                  4,
+                  2
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 3,
+                "decisione_come": "Intervento",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "15": {
+                "tipo": "Corrispondenza",
+                "orario": "14:28:08:729"
+              }
+            }
+          },
+          "4": {
+            "mossa": {
+              "0": {
+                "tipo": "ID",
+                "orario": "14:28:08:739",
+                "decisione_aiuto": "Nascondi Carta",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  5,
+                  9,
+                  1
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 2,
+                "decisione_come": "Intervento",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "1": {
+                "tipo": "Intervento",
+                "orario": "14:28:10:742",
+                "aiuto": "Nascondi Carta"
+              },
+              "2": {
+                "orario": "14:28:10:745",
+                "tipo": "Nascondi Carta",
+                "nCarte_nonNascoste": 9,
+                "nCarte_nonNascoste_dopo": 8
+              },
+              "3": {
+                "tipo": "Non Gradito",
+                "orario": "14:28:12:374"
+              },
+              "4": {
+                "tipo": "ID",
+                "orario": "14:28:12:386",
+                "decisione_aiuto": "Indica Posizione",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  5,
+                  8,
+                  3
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 2,
+                "decisione_come": "Intervento",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "5": {
+                "tipo": "Corrispondenza",
+                "orario": "14:28:13:491"
+              }
+            }
+          },
+          "5": {
+            "mossa": {
+              "0": {
+                "tipo": "ID",
+                "orario": "14:28:13:505",
+                "decisione_aiuto": "Rivedi Sequenza",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  6,
+                  9,
+                  1
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 4,
+                "decisione_come": "Intervento",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "1": {
+                "tipo": "Intervento",
+                "orario": "14:28:17:511",
+                "aiuto": "Rivedi Sequenza"
+              },
+              "2": {
+                "tipo": "Rivedi Sequenza",
+                "orario": "14:28:17:512"
+              },
+              "3": {
+                "tipo": "Gradito",
+                "orario": "14:28:23:776"
+              },
+              "4": {
+                "tipo": "Errore",
+                "orario": "14:28:25:981"
+              },
+              "5": {
+                "tipo": "ID",
+                "orario": "14:28:25:992",
+                "decisione_aiuto": "Nascondi Carta",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  6,
+                  9,
+                  2
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 2,
+                "decisione_come": "Suggerimento",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "6": {
+                "tipo": "Suggerimento",
+                "orario": "14:28:28:02",
+                "aiuto": "Nascondi Carta"
+              },
+              "7": {
+                "tipo": "Corrispondenza",
+                "orario": "14:28:28:570"
+              }
+            }
+          },
+          "6": {
+            "mossa": {
+              "0": {
+                "tipo": "ID",
+                "orario": "14:28:28:580",
+                "decisione_aiuto": "Indica Posizione",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  7,
+                  9,
+                  1
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 4,
+                "decisione_come": "Suggerimento",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "1": {
+                "tipo": "Corrispondenza",
+                "orario": "14:28:30:622"
+              }
+            }
+          },
+          "7": {
+            "mossa": {
+              "0": {
+                "tipo": "ID",
+                "orario": "14:28:30:634",
+                "decisione_aiuto": "Nascondi Carta",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  6,
+                  9,
+                  1
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 4,
+                "decisione_come": "Intervento",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "1": {
+                "tipo": "Corrispondenza",
+                "orario": "14:28:31:525"
+              }
+            }
+          },
+          "8": {
+            "mossa": {
+              "0": {
+                "tipo": "ID",
+                "orario": "14:28:31:536",
+                "decisione_aiuto": "Suggerisci Posizione",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  7,
+                  9,
+                  1
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 3,
+                "decisione_come": "Intervento",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "1": {
+                "tipo": "Corrispondenza",
+                "orario": "14:28:32:968"
+              }
+            }
+          }
+        },
+        "tempo_parziale": 58.71,
+        "orario_fine": "14:28:32:968",
+        "terminato": 1,
+        "score_parziale": 62
+      },
+      "7": {
+        "n_sequenza": 9,
+        "n_carte": 10,
+        "ripetizione": 0,
+        "n_errori": 1,
+        "n_aiuti": 4,
+        "orario_inizio": "14:28:43:240",
+        "sequenza": {
+          "0": {
+            "mossa": {
+              "0": {
+                "tipo": "ID",
+                "orario": "14:28:48:262",
+                "decisione_aiuto": "Suggerisci Posizione",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  1,
+                  10,
+                  0
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 2,
+                "decisione_come": "Intervento",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "1": {
+                "tipo": "Intervento",
+                "orario": "14:28:50:263",
+                "aiuto": "Suggerisci Posizione"
+              },
+              "2": {
+                "tipo": "Suggerisci Posizione",
+                "orario": "14:28:50:264",
+                "nCarte_nonNascoste": 10,
+                "nCarte_nonNascoste_dopo": 5
+              },
+              "3": {
+                "tipo": "Non Gradito",
+                "orario": "14:28:53:167"
+              },
+              "4": {
+                "tipo": "ID",
+                "orario": "14:28:53:182",
+                "decisione_aiuto": "Indica Posizione",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  1,
+                  5,
+                  3
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 2,
+                "decisione_come": "Suggerimento",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "5": {
+                "tipo": "Corrispondenza",
+                "orario": "14:28:54:151"
+              }
+            }
+          },
+          "1": {
+            "mossa": {
+              "0": {
+                "tipo": "ID",
+                "orario": "14:28:54:164",
+                "decisione_aiuto": "Nessuno",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  2,
+                  10,
+                  1
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": ""
+              },
+              "1": {
+                "tipo": "Corrispondenza",
+                "orario": "14:28:55:284"
+              }
+            }
+          },
+          "2": {
+            "mossa": {
+              "0": {
+                "tipo": "ID",
+                "orario": "14:28:55:295",
+                "decisione_aiuto": "Indica Posizione",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  3,
+                  10,
+                  1
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 3,
+                "decisione_come": "Intervento",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "1": {
+                "tipo": "Intervento",
+                "orario": "14:28:58:297",
+                "aiuto": "Indica Posizione"
+              },
+              "2": {
+                "tipo": "Indica Posizione",
+                "orario": "14:28:58:299",
+                "nCarte_nonNascoste": 10,
+                "nCarte_nonNascoste_dopo": 1
+              },
+              "3": {
+                "tipo": "Gradito",
+                "orario": "14:29:02:623"
+              },
+              "4": {
+                "tipo": "Corrispondenza",
+                "orario": "14:29:03:368"
+              }
+            }
+          },
+          "3": {
+            "mossa": {
+              "0": {
+                "tipo": "ID",
+                "orario": "14:29:03:380",
+                "decisione_aiuto": "Nessuno",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  4,
+                  10,
+                  1
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": ""
+              },
+              "1": {
+                "tipo": "Corrispondenza",
+                "orario": "14:29:05:813"
+              }
+            }
+          },
+          "4": {
+            "mossa": {
+              "0": {
+                "tipo": "ID",
+                "orario": "14:29:05:823",
+                "decisione_aiuto": "Rivedi Sequenza",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  5,
+                  10,
+                  1
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 2,
+                "decisione_come": "Intervento",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "1": {
+                "tipo": "Intervento",
+                "orario": "14:29:07:824",
+                "aiuto": "Rivedi Sequenza"
+              },
+              "2": {
+                "tipo": "Rivedi Sequenza",
+                "orario": "14:29:07:825"
+              },
+              "3": {
+                "tipo": "Gradito",
+                "orario": "14:29:14:434"
+              },
+              "4": {
+                "tipo": "Corrispondenza",
+                "orario": "14:29:15:803"
+              }
+            }
+          },
+          "5": {
+            "mossa": {
+              "0": {
+                "tipo": "ID",
+                "orario": "14:29:15:817",
+                "decisione_aiuto": "Nascondi Carta",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  6,
+                  10,
+                  1
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 4,
+                "decisione_come": "Notifica",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "1": {
+                "tipo": "Corrispondenza",
+                "orario": "14:29:18:303"
+              }
+            }
+          },
+          "6": {
+            "mossa": {
+              "0": {
+                "tipo": "ID",
+                "orario": "14:29:18:314",
+                "decisione_aiuto": "Nessuno",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  7,
+                  10,
+                  1
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": ""
+              },
+              "1": {
+                "tipo": "Errore",
+                "orario": "14:29:20:89"
+              },
+              "2": {
+                "tipo": "ID",
+                "orario": "14:29:20:98",
+                "decisione_aiuto": "Rivedi Sequenza",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  7,
+                  10,
+                  2
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 4,
+                "decisione_come": "Notifica",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "3": {
+                "tipo": "Corrispondenza",
+                "orario": "14:29:21:896"
+              }
+            }
+          },
+          "7": {
+            "mossa": {
+              "0": {
+                "tipo": "ID",
+                "orario": "14:29:21:907",
+                "decisione_aiuto": "Nessuno",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  6,
+                  10,
+                  1
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": ""
+              },
+              "1": {
+                "tipo": "Corrispondenza",
+                "orario": "14:29:23:484"
+              }
+            }
+          },
+          "8": {
+            "mossa": {
+              "0": {
+                "tipo": "ID",
+                "orario": "14:29:23:497",
+                "decisione_aiuto": "Suggerisci Posizione",
+                "input_SVC": [
+                  8,
+                  9,
+                  7,
+                  13,
+                  7,
+                  7,
+                  10,
+                  1
+                ],
+                "help_SVC_Decision": "",
+                "help_SVC_Prob": "",
+                "decisione_tempo": 2,
+                "decisione_come": "Notifica",
+                "time_SVC_Decision": "",
+                "time_SVC_Prob": ""
+              },
+              "1": {
+                "tipo": "Notifica",
+                "orario": "14:29:25:498",
+                "aiuto": "Suggerisci Posizione"
+              },
+              "2": {
+                "tipo": "Indica Posizione",
+                "orario": "14:29:27:311",
+                "nCarte_nonNascoste": 10,
+                "nCarte_nonNascoste_dopo": 1
+              },
+              "3": {
+                "tipo": "Corrispondenza",
+                "orario": "14:29:29:451"
+              }
+            }
+          }
+        },
+        "tempo_parziale": 46.21,
+        "orario_fine": "14:29:29:451",
+        "terminato": 1,
+        "score_parziale": 73
+      }
+    },
+    "orario_inizio": "14:21:54:245",
+    "orario_fine": "14:29:40:762",
+    "livello_raggiunto": 7,
+    "score_tot": 372,
+    "errori_tot": 25,
+    "aiuti_tot": 20,
+    "tempo_tot": 466.516
+  },
+  "partecipante": 29,
+  "post_interaction": {
+    "Q1": 3,
+    "Q2": 5,
+    "Q3": 5,
+    "Q4": 4,
+    "Q5": 5,
+    "Q6": 2,
+    "Q7": 4,
+    "Q8": 1,
+    "Q9": 5,
+    "Q10": 3,
+    "Q11": 4,
+    "Q12": 3,
+    "Q13": 1,
+    "Q14": 1,
+    "Q15": 2,
+    "Q16": 5,
+    "Q17": 5,
+    "Q18": 2,
+    "Q19": 2,
+    "Q20": 1,
+    "Q21": 1,
+    "Q22": 3,
+    "Q23": 5,
+    "Q24": 1,
+    "Q25": 1,
+    "Q26": 1,
+    "Q27": 1,
+    "Q28": 1,
+    "Q29": 3,
+    "Q30": 4,
+    "Q31": 5,
+    "Q32": 6,
+    "Q33": 7,
+    "Q34": 7
+  }
+}
